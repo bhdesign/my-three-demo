@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import ThreeScene from './components/ThreeScene.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <ThreeScene />
 </template>
